@@ -1,13 +1,11 @@
 # 🚗 Project-0100
-
-![image](https://github.com/DGboost/Project-0100/assets/147890917/02e30553-576c-4409-a12f-7b66d062d078)
-
 ## 💡3D-웹-멀티-레이싱-게임!
+![image](https://github.com/DGboost/Project-0100/assets/147890917/02e30553-576c-4409-a12f-7b66d062d078)
 
 **[http://www.project0100.shop/](http://www.project0100.shop/)**
 
-![image](https://github.com/DGboost/Project-0100/assets/147890917/d3ad0a2b-7f30-4943-8814-640e42248da0)
-
+## 🚧 개발 기간
+> 2024.01.18 ~ 2024.02.22 (5주)
 
 ## 주제 선정 배경
 ```
@@ -25,15 +23,25 @@
 
 
 ## ✨ 게임 소개
-### ✨ 패이지 소개
+### ✨ 페이지 소개
 |                                                                       로그인 페이지                                                                     |                                                                        게임 로비                                                                         |
 | :------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------------: |
 | ![loginpage](https://github.com/DGboost/Project-0100/assets/147890917/6b657fe2-6a20-4726-aa45-febd4c3fab0d)   | ![robbypage](https://github.com/DGboost/Project-0100/assets/147890917/ee3449f6-9997-4d0c-bb8a-43605c6daf22)|
 |                                                                            대기방                                                                            |                                                                       게임 화면                                                                       |
 |     ![waitingroom](https://github.com/DGboost/Project-0100/assets/147890917/986274eb-73c9-4d34-87ae-77b14629e381)      | ![gameplaying](https://github.com/DGboost/Project-0100/assets/147890917/916cf4f6-2554-4827-b72b-3f07b0566d0f)  |
 
-## 🚧 개발 기간
-> 2024.01.18 ~ 2024.02.22 (5주)
+
+### ✨ 장애물
+![image](https://github.com/DGboost/Project-0100/assets/147890917/98d77c1c-35c2-436c-8996-e10b6b7b6da2)
+
+
+### ✨ 인터페이스
+![image](https://github.com/DGboost/Project-0100/assets/147890917/1f5c9ad8-166a-48ab-acf1-c3437b818529)
+
+
+## 🚧기술적 챌린지
+![image](https://github.com/DGboost/Project-0100/assets/147890917/9e1227c4-5d9e-43e3-b58d-290a11b25948)
+![image](https://github.com/DGboost/Project-0100/assets/147890917/1a8df633-4b01-4ac9-8ff6-a662dcfd37e6)
 
 ## 🛠️ 기술 스택
 ### frontend
@@ -54,3 +62,7 @@
 
 ## 🗺️ 아키텍처
 ![image](https://github.com/DGboost/Project-0100/assets/147890917/2d1590d3-9990-485f-843f-ccc83fe7b1e6)
+
+## ✨ 팀원 소개
+![image](https://github.com/DGboost/Project-0100/assets/147890917/95c1da94-19ca-4c14-9ea6-96b18f46a55c)
+
