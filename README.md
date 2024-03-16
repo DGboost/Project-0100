@@ -47,9 +47,10 @@
 ![Socketdotio](https://img.shields.io/badge/socketdotio-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
 
 ### Database
+![Mariadb](https://img.shields.io/badge/mariadb-003545?style=for-the-badge&logo=socketdotio&logoColor=white)
 
 ### Server
-
+![Amazonec2](https://img.shields.io/badge/amzonec2-FF9900?style=for-the-badge&logo=socketdotio&logoColor=white)
 
 ## 🗺️ 아키텍처
 ![image](https://github.com/DGboost/Project-0100/assets/147890917/2d1590d3-9990-485f-843f-ccc83fe7b1e6)
